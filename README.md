@@ -10,6 +10,9 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot 2023-07-30 202232](https://github.com/shikhar012/social-media-website-/assets/101727996/37b21dbc-cfb8-4240-8846-3b6d4a054084)
+![Screenshot 2023-07-30 202346](https://github.com/shikhar012/social-media-website-/assets/101727996/599503cc-1405-4891-aba4-2b4326d67dd1)
+ 
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
